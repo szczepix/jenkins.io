@@ -6,7 +6,7 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     afm (0.2.2)
     ansi (1.5.0)
-    asciidoctor (1.5.7.1)
+    asciidoctor (1.5.8)
     asciidoctor-jenkins-extensions (0.4.0)
       asciidoctor (~> 1.5.5)
       coderay (~> 1.1.1)
@@ -158,7 +158,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  asciidoctor (~> 1.5.5)
+  asciidoctor (~> 1.5.8)
   asciidoctor-jenkins-extensions
   asciidoctor-pdf (= 1.5.0.alpha.15)
   awestruct (~> 0.5.7)
